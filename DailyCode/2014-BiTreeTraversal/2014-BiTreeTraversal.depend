@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443159001 source:z:\system file\desktop\2014-bitreetraversal\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

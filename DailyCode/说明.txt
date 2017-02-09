@@ -1,0 +1,6 @@
+demo.m可以直接运行。
+APG_TV.m实现了图像域的联合模型，基本可以对应算法流程的每一步。
+
+你可以先实现wavelet版本，只需把图像域变到小波域，处理小波稀疏，整个算法流程是一样的。小波变换用到的函数在framelet文件夹下。你可以参考文献“J. Hui and W. Kang, "Robust Image Deblurring With an Inaccurate Blur Kernel," Image Processing, IEEE Transactions on, vol. 21, pp. 1624-1634, 2012”，代码链接：http://www.math.nus.edu.sg/~matjh/download/robust_deblur/RobustDeblur_v1.zip
+
+对于梯度域，我在word文档里大概写了推导过程，你再详细弄一下。其中的L_p子问题的求解算法GST，就是文件夹里的solve_Lp.m。这块的实现你可以参考“D. Ren, H. Zhang, D. Zhang, and W. Zuo, "Fast total-variation based image restoration based on derivative alternated direction optimization methods," Neurocomputing, vol. 170, pp. 201-212, 2015-12-25 2015”，代码链接：https://github.com/csdwren/D-ADMM-code

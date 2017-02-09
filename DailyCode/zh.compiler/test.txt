@@ -1,0 +1,10 @@
+ivan()
+a:int;
+b:int;
+ccc:int;
+d:int;
+{
+if ccc>b and ccc>a then a=b+a;
+while ccc>d do a=d;
+a=(b+ccc)*a+d
+}

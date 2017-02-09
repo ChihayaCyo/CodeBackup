@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1431850199 source:c:\users\zhanghang-user\desktop\code\zh.compiler\main.cpp
+	<cstdio>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string.h>
+	<cmath>
+

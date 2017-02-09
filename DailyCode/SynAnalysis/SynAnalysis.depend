@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429435266 source:c:\users\zhanghang-user\desktop\cg\synanalysis\main.cpp
+	<iostream>
+	<stack>
+	<stdlib.h>
+	<string>
+

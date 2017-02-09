@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1428841431 source:c:\users\zhanghang-user\desktop\cg\zhlexical\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
